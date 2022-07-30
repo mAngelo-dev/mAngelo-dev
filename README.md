@@ -25,6 +25,8 @@
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="WebStorm" />
 </div>
 
+## 
+
 #### Entre em contato comigo pelas seguintes plataformas:
 <div>
     <a href="mailto:m.angelodev@gmail.com">
@@ -37,6 +39,8 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
     </a>
 </div>
+
+##
 
 #### Meus hobbies:
 <p>Eu ocasionalmente faço live de Miencraft, Apex Legends e Fortnite(talvez...), enfim, demonstre um apoio lá 😉</p>
