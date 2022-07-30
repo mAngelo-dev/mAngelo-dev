@@ -1,4 +1,7 @@
 ## mAngelo-dev <img src="https://u3r3f6s2.rocketcdn.me/wp-content/uploads/2020/12/main_logo-e1621602371409.png">
+### Olá, sou o Miguel, é um prazer ter você aqui visitando minha pagina! 
+#### Descobri minha paixão por programação em 2020 enquanto explorava códigos de jogos. Atualmente estudo programação web pela [Trybe](https://www.betrybe.com/).
+#### Veja abaixo alguns dos meus status aqui no GitHub
 
 <div>
     <a href="https://github.com/mAngelo-dev">
@@ -22,7 +25,27 @@
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="WebStorm" />
 </div>
 
-#### Entre em contato comigo por:
+#### Entre em contato comigo pelas seguintes plataformas:
+<div>
+    <a href="mailto:m.angelodev@gmail.com">
+	    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+    </a>
+    <a href="https://discord.gg/DmtSuw6zYM">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
+    <a href="https://www.linkedin.com/in/marsprog/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+    </a>
+</div>
+
+#### Meus hobbies:
+<p>Eu ocasionalmente faço live de Miencraft, Apex Legends e Fortnite(talvez...), enfim, demonstre um apoio lá 😉</p>
+<div>
+    <a href="https://www.twitch.tv/nctisz">
+        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+    </a>
+</div>
+
 
 
 
