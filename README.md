@@ -43,7 +43,7 @@
 ##
 
 #### Meus hobbies:
-<p>Eu ocasionalmente faço live de Miencraft, Apex Legends e Fortnite(talvez...), enfim, demonstre um apoio lá 😉</p>
+<p>Eu ocasionalmente faço live de Minecraft, Apex Legends e Fortnite(talvez...), enfim, demonstre um apoio lá 😉</p>
 <div>
     <a href="https://www.twitch.tv/nctisz">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
