@@ -14,6 +14,7 @@
 
 #### Tecnologias, ferramentas e sistemas operacionais que utilizo:
 <div style="display: inline-block" > 
+    <a href="#">
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" alt="Filezilla"/> 
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
@@ -23,6 +24,7 @@
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu"/>
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VSCode" />
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="WebStorm" />
+    </a>
 </div>
 
 ## 
@@ -32,7 +34,9 @@
     <a href="mailto:m.angelodev@gmail.com">
 	    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
     </a>
-    <img src="https://img.shields.io/badge/Discord%3A%20nctisz%236969-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+   <a href="#">
+        <img src="https://img.shields.io/badge/Discord%3A%20nctisz%236969-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
     <a href="https://www.linkedin.com/in/marsprog/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
     </a>
@@ -61,9 +65,15 @@
 
 #### Meu notebook:
 <div>
-    <img src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia"/>
-    <img src="https://img.shields.io/badge/Intel-Core_i7_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel"/>
+    <a href="#">
+        <img src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Intel-Core_i7_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel"/>
+    </a>
+    <a href="#">
     <img src="https://img.shields.io/badge/Windows-ACER_Nitro_5-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+    </a>
 </div>
 
 
