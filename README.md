@@ -1,6 +1,9 @@
 ## mAngelo-dev <img height="20em" src="https://u3r3f6s2.rocketcdn.me/wp-content/uploads/2020/12/main_logo-e1621602371409.png">
-### Olá, sou o Miguel, é um prazer ter você aqui visitando minha pagina! 
+
+### Olá, sou o Miguel, é um prazer ter você aqui visitando minha pagina!
+
 #### Descobri minha paixão por programação em 2020 enquanto explorava códigos de jogos. Atualmente estudo programação web pela [Trybe](https://www.betrybe.com/).
+
 #### Veja abaixo alguns dos meus status aqui no GitHub
 
 <div>
@@ -10,11 +13,11 @@
     </a>
 </div>
 
-## 
+##  
 
 #### Tecnologias, ferramentas e sistemas operacionais que utilizo:
-<div style="display: inline-block" > 
-    <a href="#">
+
+<div style="display: inline-block" >
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" alt="Filezilla"/> 
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
@@ -24,19 +27,17 @@
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu"/>
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VSCode" />
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="WebStorm" />
-    </a>
 </div>
 
-## 
+##  
 
 #### Entre em contato comigo pelas seguintes plataformas:
-<div>
+
+<div style="display: inline-block" >
     <a href="mailto:m.angelodev@gmail.com">
 	    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
     </a>
-   <a href="#">
-        <img src="https://img.shields.io/badge/Discord%3A%20nctisz%236969-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a>
+    <img src="https://img.shields.io/badge/Discord%3A%20nctisz%236969-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     <a href="https://www.linkedin.com/in/marsprog/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
     </a>
@@ -45,6 +46,7 @@
 ##
 
 #### Meus hobbies:
+
 <p>Eu ocasionalmente faço live de Minecraft, Apex Legends e Fortnite(talvez...), enfim, demonstre um apoio lá 😉</p>
 <div>
     <a href="https://www.twitch.tv/nctisz">
@@ -55,6 +57,7 @@
 ##
 
 #### Meu perfil na steam:
+
 <div>
     <a href="https://steamcommunity.com/id/nctisz">
         <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
@@ -64,16 +67,11 @@
 ##
 
 #### Meu notebook:
-<div>
-    <a href="#">
-        <img src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia"/>
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/Intel-Core_i7_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel"/>
-    </a>
-    <a href="#">
+
+<div style="display: inline-block" >
+    <img src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia"/>
+    <img src="https://img.shields.io/badge/Intel-Core_i7_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel"/>
     <img src="https://img.shields.io/badge/Windows-ACER_Nitro_5-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-    </a>
 </div>
 
 
