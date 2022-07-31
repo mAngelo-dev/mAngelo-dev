@@ -32,9 +32,7 @@
     <a href="mailto:m.angelodev@gmail.com">
 	    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
     </a>
-    <a href="https://discord.gg/DmtSuw6zYM">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a>
+    <img src="https://img.shields.io/badge/Discord%3A%20nctisz%236969-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     <a href="https://www.linkedin.com/in/marsprog/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
     </a>
