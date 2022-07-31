@@ -50,6 +50,26 @@
     </a>
 </div>
 
+##
+
+#### Meu perfil na steam:
+<div>
+    <a href="https://steamcommunity.com/id/nctisz">
+        <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+    </a>
+</div>
+
+##
+
+#### Meu notebook:
+<div>
+    <img src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia"/>
+    <img src="https://img.shields.io/badge/Intel-Core_i7_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel"/>
+    <img src="https://img.shields.io/badge/Windows-ACER_Nitro_5-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+</div>
+
+
+
 
 
 
