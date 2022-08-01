@@ -15,7 +15,7 @@
 
 ##  
 
-#### Tecnologias, ferramentas e sistemas operacionais que utilizo:
+#### Tecnologias e ferramentas que utilizo:
 
 <div style="display: inline-block" >
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS">
