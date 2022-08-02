@@ -68,7 +68,7 @@
 #### Meu notebook:
 
 <div style="display: inline-block" >
-    <img src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia">
+    <img src="https://img.shields.io/badge/NVIDIA-GTX_1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia">
     <img src="https://img.shields.io/badge/Intel-Core_i7_7700HQ-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel">
     <p> Dual boot com:</p>
     <img src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
