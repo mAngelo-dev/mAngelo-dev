@@ -17,7 +17,7 @@
 
 #### Tecnologias e ferramentas que utilizo:
 
-<div style="display: inline-block" >
+<div>
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS">
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" alt="Filezilla"> 
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
@@ -32,7 +32,7 @@
 
 #### Entre em contato comigo pelas seguintes plataformas:
 
-<div style="display: inline-block" >
+<div>
     <a href="mailto:m.angelodev@gmail.com">
 	    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
     </a>
