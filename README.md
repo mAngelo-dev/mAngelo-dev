@@ -2,7 +2,7 @@
 
 ### Olá, sou o Miguel e é um prazer ter você aqui visitando minha pagina!
 
-![](https://github.com/mAngelo-dev/mAngelo-dev/blob/main/midia/eseer_1.gif)
+![](https://github.com/mAngelo-dev/mAngelo-dev/blob/main/midia/resized.gif)
 
 #### Descobri minha paixão por programação em 2020 enquanto explorava códigos de jogos. Atualmente estudo programação web pela [Trybe](https://www.betrybe.com/).
 
