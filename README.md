@@ -1,6 +1,9 @@
 ## mAngelo-dev <img height="20em" src="https://u3r3f6s2.rocketcdn.me/wp-content/uploads/2020/12/main_logo-e1621602371409.png">
 
 ### Olá, sou o Miguel e é um prazer ter você aqui visitando minha pagina!
+<video width="320" height="240" controls>
+  <source src="https://i.imgur.com/mXK0seP.mp4" type="video/mp4">
+</video>
 #### Descobri minha paixão por programação em 2020 enquanto explorava códigos de jogos. Atualmente estudo programação web pela [Trybe](https://www.betrybe.com/).
 
 #### Veja abaixo alguns dos meus status aqui no GitHub
