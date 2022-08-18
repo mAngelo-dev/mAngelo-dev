@@ -2,8 +2,6 @@
 
 ### Olá, sou o Miguel e é um prazer ter você aqui visitando minha pagina!
 
-<img src="https://drive.google.com/file/d/1oEfNrzv8ILp8ceMPStO4kWKx55IU3zwt/preview" width="640" height="480" allow="autoplay"></iframe>
-
 #### Descobri minha paixão por programação em 2020 enquanto explorava códigos de jogos. Atualmente estudo programação web pela [Trybe](https://www.betrybe.com/).
 
 #### Veja abaixo alguns dos meus status aqui no GitHub
