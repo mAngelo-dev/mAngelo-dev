@@ -2,8 +2,10 @@
 
 ### Olá, sou o Miguel e é um prazer ter você aqui visitando minha pagina!
 <div style="display: flex" "justify-content: center">
+
 ![](https://github.com/mAngelo-dev/mAngelo-dev/blob/main/midia/resized.gif)
 
+</div>
 #### Descobri minha paixão por programação em 2020 enquanto explorava códigos de jogos. Atualmente estudo programação web pela [Trybe](https://www.betrybe.com/).
 
 #### Veja abaixo alguns dos meus status aqui no GitHub
