@@ -4,6 +4,7 @@
 <video width="320" height="240" controls>
   <source src="https://i.imgur.com/mXK0seP.mp4" type="video/mp4">
 </video>
+
 #### Descobri minha paixão por programação em 2020 enquanto explorava códigos de jogos. Atualmente estudo programação web pela [Trybe](https://www.betrybe.com/).
 
 #### Veja abaixo alguns dos meus status aqui no GitHub
