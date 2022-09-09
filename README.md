@@ -77,5 +77,5 @@
     <img src="https://img.shields.io/badge/Intel-Core_i7_7700HQ-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel">
     <p> Dual boot com:</p>
     <img src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-    ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+    <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" alt="LinuxMint">
 </div>
