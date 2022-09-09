@@ -6,11 +6,11 @@
 
 #### Descobri minha paixão por programação em 2020 enquanto explorava códigos de jogos. Atualmente estudo programação web pela [Trybe](https://www.betrybe.com/).
 
-#### Veja abaixo alguns dos meus status aqui no GitHub
+#### ⬇️ Veja abaixo as linguagens mais utilizadas por mim ⬇️
 
 <div>
     <a href="https://github.com/mAngelo-dev">
-        <img height="164em" src="https://github-readme-stats.vercel.app/api?username=mAngelo-dev&count_private=true&show_icons=true&include_all_commits=true&theme=react&custom_title=Meu%20hist%C3%B3rico%0A%20no%20GitHub%0A%0A" alt="Status do Miguel"/>
+        <!--<img height="164em" src="https://github-readme-stats.vercel.app/api?username=mAngelo-dev&count_private=true&show_icons=true&include_all_commits=true&theme=react&custom_title=Meu%20hist%C3%B3rico%0A%20no%20GitHub%0A%0A" alt="Status do Miguel"/>-->
         <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mAngelo-dev&layout=compact&theme=react&card_width=244&custom_title=Linguagens" alt="Linguagens mais utilizadas">
     </a>
 </div>
