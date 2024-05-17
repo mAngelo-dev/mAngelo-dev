@@ -4,7 +4,7 @@
 
 ![](https://github.com/mAngelo-dev/mAngelo-dev/blob/main/midia/resized.gif)
 
-#### Descobri minha paixão por programação em 2020 enquanto explorava códigos de jogos.
+#### Descobri minha paixão por programação em 2020 enquanto explorava códigos de jogos. Atualmente trabalho na área de desenvolvimento na Tecnisys
 
 #### ⬇️ Veja abaixo as linguagens mais utilizadas por mim ⬇️
 
@@ -41,7 +41,7 @@
     <a href="mailto:m.angelodev@gmail.com">
 	    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
     </a>
-    <img src="https://img.shields.io/badge/Discord%3A%20nctisz%236969-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord%3A%20nctisz-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     <a href="https://www.linkedin.com/in/mangelodev/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
     </a>
@@ -51,7 +51,7 @@
 
 #### Meus hobbies:
 
-<p>Eu ocasionalmente faço live de Minecraft, Apex Legends e Fortnite(talvez...), enfim, demonstre um apoio lá 😉</p>
+<p>Faço live jogando alguns jogos quando não estou trabalhando</p>
 <div>
     <a href="https://www.twitch.tv/nctisz">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
@@ -73,9 +73,7 @@
 #### Meu notebook:
 
 <div style="display: inline-block" >
-    <img src="https://img.shields.io/badge/NVIDIA-GTX_1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia">
-    <img src="https://img.shields.io/badge/Intel-Core_i7_7700HQ-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel">
-    <p> Dual boot com:</p>
-    <img src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-    <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" alt="LinuxMint">
+    <img src="https://img.shields.io/badge/NVIDIA-RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia">
+    <img src="https://img.shields.io/badge/Intel-Core_i7_12700H-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel">
+    <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 </div>
