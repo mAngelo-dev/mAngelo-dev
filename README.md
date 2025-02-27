@@ -1,6 +1,6 @@
 ## mAngelo-dev
 
-#### Descobri minha paixão por programação em 2020 enquanto explorava códigos de jogos. Atualmente trabalho na área de desenvolvimento na Tecnisys
+#### Busco soluções de qualidade e alta performance. Atualmente trabalho na área de desenvolvimento na Tecnisys
 
 #### Entre em contato comigo pelas seguintes plataformas:
 
