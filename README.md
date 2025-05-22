@@ -1,6 +1,6 @@
 ## mAngelo-dev
 
-#### Busco soluções de qualidade e alta performance. Atualmente trabalho na área de desenvolvimento na Tecnisys
+#### Busco soluções de qualidade e alta performance.
 
 #### Entre em contato comigo pelas seguintes plataformas:
 
