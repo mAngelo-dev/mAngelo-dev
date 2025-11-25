@@ -1,0 +1,26 @@
+schema: v1
+name: Lunar purple
+description: A simple purple themed preset
+author: mAngelo-dev
+with:
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
+  extras_css: |
+    .field svg {
+      fill: #B5A6FF;
+    }
+    .field {
+      color: #6C4FBB;
+    }
+    h1, h2, h3 {
+      color: #3E2C7E !important;
+    }
+  extras_js: |
+    for (const {a, b} of [
+      {a:"#216e39", b:"#3E2C7E"},
+      {a:"#30a14e", b:"#6C4FBB"},
+      {a:"#40c463", b:"#9B8AEB"},
+      {a:"#9be9a8", b:"#C9B3FF"},
+      {a:"#ebedf0", b:"#EFEAFF"},
+    ])
+    document.querySelectorAll(`svg g [fill="${a}"]`).forEach(node => node.setAttribute("fill", b))
