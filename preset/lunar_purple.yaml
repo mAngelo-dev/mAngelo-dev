@@ -3,8 +3,6 @@ name: Lunar purple
 description: A simple purple themed preset
 author: mAngelo-dev
 with:
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
   extras_css: |
     .field svg {
       fill: #B5A6FF;

@@ -19,3 +19,4 @@ jobs:
           plugin_steam: yes
           plugin_steam_user: ${{ secrets.STEAM_ID }}
           plugin_steam_sections: recently-played
+          plugin_isocalendar: no
