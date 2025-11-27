@@ -22,7 +22,4 @@ jobs:
           plugin_steam_sections: recently-played
           plugin_isocalendar: no
           plugin_languages: yes
-          plugin_languages_sections: recently-used
-          plugin_languages_recent_load: 400
-          plugin_languages_recent_days: 14
           plugin_languages_ignored: html, css
