@@ -15,6 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/Sao_Paulo
           config_presets: https://raw.githubusercontent.com/mAngelo-dev/mAngelo-dev/refs/heads/main/preset/lunar_purple.yaml
+          base: header, activity, repositories
           plugin_steam_token: ${{ secrets.STEAM_WEB_API_TOKEN }}
           plugin_steam: yes
           plugin_steam_user: ${{ secrets.STEAM_ID }}
