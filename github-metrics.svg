@@ -42,8 +42,8 @@ h1, h2, h3 {
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#EFEAFF" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#EFEAFF" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#EFEAFF" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#EFEAFF" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#3E2C7E" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#3E2C7E" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#EFEAFF" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#EFEAFF" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#EFEAFF" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#EFEAFF" rx="2" ry="2"/>
