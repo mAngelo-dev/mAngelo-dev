@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 0 * * 1"}]
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -23,7 +23,7 @@ jobs:
           plugin_isocalendar: no
           plugin_languages: yes
           plugin_languages_ignored: html, css
-          plugin_music: yes
-          plugin_music_provider: youtube
-          plugin_music_playlist: https://music.youtube.com/playlist?list=PLOATcaWYVfKOKpN08bzi2L2rNL_B2NMj_
+          # plugin_music: yes
+          # plugin_music_provider: youtube
+          # plugin_music_playlist: https://music.youtube.com/playlist?list=PLOATcaWYVfKOKpN08bzi2L2rNL_B2NMj_
 
